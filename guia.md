@@ -7,3 +7,5 @@ En otras palabras, nos da una idea general de *dónde están ubicados los datos*
 - Representa el centro de gravedad de los datos
 - es útil para comparar grupos
 - nos da una idea de cuanto es lo *normal* o esperado dentro de una población o muestra
+### Media Poblacional
+![Formula](images/media_poblacion.svg]
