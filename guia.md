@@ -65,3 +65,25 @@ Se calcula multiplicando todos los valores y luego se extrae la raíz enésima d
 
 En resumidas cuentas, la media geometrica representa el cambio porcentual con el tiempo.
 
+
+# Medidas de Dispersión
+Las medidas de dispersión son herramientas que nos indican cuánto se alejan los datos respecto a una medida de tendencia central, como la media.
+
+Es decir, nos dicen qué tan **dispersos**, **concentrados** o **separados** están los datos entre sí.
+
+## Varianza
+La varianza mide cuanto se **dispersan** los datos con respecto a la media.
+
+Indica que tan separados o juntos están los **valores de un conjunto**.
+### Fórmula
+Varianza Poblacional: ![Formula](images/varianza_poblacional.png)
+
+Varianza Muestral: ![Formula](images/varianza_muestral.png)
+
+## Desviación Estándar
+La desviación estándar mide cuánto se alejan los datos, en promedio, respecto a la media.
+
+### Fórmula
+Desviación estándar poblacional: ![Formula](images/desviacion_poblacional.png)
+
+Desviación estándar muestral: ![Formula](images/desviacion_muestral.png)
