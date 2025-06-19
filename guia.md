@@ -34,4 +34,4 @@ La media ponderada es una medida en la que cada valor *tiene un peso o importanc
 En lugar de sumar todos los valores por igual, *algunos valores cuentan más que otros*.
 
 ### Fórmula
-![Formula](images/media_[ponderada].png)
+![Formula](images/media_ponderada.png)
