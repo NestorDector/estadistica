@@ -35,3 +35,12 @@ En lugar de sumar todos los valores por igual, *algunos valores cuentan más que
 
 ### Fórmula
 ![Formula](images/media_ponderada.png)
+## Media Geométrica
+La media geométrica proporciona una medida precisa de un cambio porcentual promedio en una serie de números.
+
+Es el valor promedio *multiplicativo* de un conjunto de datos.
+
+Se calcula multiplicando todos los valores y luego se extrae la raíz enésima donde n es la cantidad de datos.
+### Fórmula
+![Formula](images/media_geometrica.png)
+
