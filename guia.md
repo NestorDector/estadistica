@@ -63,3 +63,5 @@ Se calcula multiplicando todos los valores y luego se extrae la raíz enésima d
 ### Fórmula
 ![Formula](images/media_geometrica.png)
 
+En resumidas cuentas, la media geometrica representa el cambio porcentual con el tiempo.
+
