@@ -40,6 +40,25 @@ La media geométrica proporciona una medida precisa de un cambio porcentual prom
 
 Es el valor promedio **multiplicativo** de un conjunto de datos.
 
+- Es el promedio adecuado cuando se trabaja con tasas de crecimiento, porcentajes o índices
+- Refleja un crecimiento proporcional
+- Es útil para comparar rendimientos compuestos (interés, crecimiento económico, etc.)
+### Para qué se usa
+- Para tasas de variación (crecimientos, porcentajes, intereses compuestos).
+
+- En índices económicos y financieros (como el IPC o ROI compuesto).
+
+- Cuando los datos están en escala multiplicativa.
+
+- Cuando no quieres que valores extremos dominen tanto el promedio.
+
+### Precauciones
+- Solo se usa con valores positivos. Si hay ceros o negativos, la media geométrica no está definida.
+
+- No se interpreta igual que la media aritmética: es más conservadora (tiende a ser menor).
+
+
+
 Se calcula multiplicando todos los valores y luego se extrae la raíz enésima donde n es la cantidad de datos.
 ### Fórmula
 ![Formula](images/media_geometrica.png)
