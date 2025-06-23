@@ -87,3 +87,9 @@ La desviación estándar mide cuánto se alejan los datos, en promedio, respecto
 Desviación estándar poblacional: ![Formula](images/desviacion_poblacional.png)
 
 Desviación estándar muestral: ![Formula](images/desviacion_muestral.png)
+
+# Medidas de Tendencia Central para Datos Agrupados
+Al trabajar con datos que han sido agrupados en una distribución de frecuencias, no conocemos las observaciones individuales. En estos casos, deberán realizarse cálculos alternativos para obtener todas las medidas descriptivas.
+- Tomar en cuenta que las medidas descriptivas utilizando datos agrupados son solamente aproximaciones, por lo tanto, siempre será recomendable utilizar las observaciones individuales en caso de que se tenga acceso a estas.
+## Datos Agrupados
+Los datos agrupados son datos organizados en **intérvalos** o **clases**. En lugar de tener cada valor, tenemos el número de datos(**frecuencia**) que cae dentro de cada clase.
