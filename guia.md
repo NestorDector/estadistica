@@ -93,3 +93,13 @@ Al trabajar con datos que han sido agrupados en una distribución de frecuencias
 - Tomar en cuenta que las medidas descriptivas utilizando datos agrupados son solamente aproximaciones, por lo tanto, siempre será recomendable utilizar las observaciones individuales en caso de que se tenga acceso a estas.
 ## Datos Agrupados
 Los datos agrupados son datos organizados en **intérvalos** o **clases**. En lugar de tener cada valor, tenemos el número de datos(**frecuencia**) que cae dentro de cada clase.
+
+## Media
+Para encontrar la media de datos agrupados realizamos los siguientes pasos:
+1. Calculamos el punto medio de cada clase, sacando el promedio entre el límite superior y el límite inferior.
+2. Multiplicamos cada punto medio por su frecuencia.
+3. Sumamos todos esos productos.
+4. Dividimos esa suma entre el total de datos(total de frecuencia).
+
+### Fórmula
+Desviación estándar poblacional: ![Formula](images/media_agrupados.png)
