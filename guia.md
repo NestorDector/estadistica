@@ -102,4 +102,14 @@ Para encontrar la media de datos agrupados realizamos los siguientes pasos:
 4. Dividimos esa suma entre el total de datos(total de frecuencia).
 
 ### Fórmula
-Desviación estándar poblacional: ![Formula](images/media_agrupados.png)
+Media para datos agrupados: ![Formula](images/media_agrupados.png)
+
+## Mediana
+Para encontrar la mediana de datos agrupados seguimos los siguientes pasos:
+1. Encontrar la clase de la mediana. La clase de la mediana es aquella clase cuya **frecuencia acumulada** es mayor o igual a n/2.
+2. Aplicar la fórmula de la mediana para datos agrupados.
+
+### Fórmula
+Mediana para datos agrupados: ![Formula](images/mediana_agrupados.png)
+
+## Moda
