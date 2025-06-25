@@ -113,3 +113,24 @@ Para encontrar la mediana de datos agrupados seguimos los siguientes pasos:
 Mediana para datos agrupados: ![Formula](images/mediana_agrupados.png)
 
 ## Moda
+### Fórmula
+## Varianza
+### Fórmula
+## Desviación Estándar
+### Fórmula
+
+# Otras Medidas de Dispersión
+## Cuartiles
+## Deciles
+## Percentiles
+
+# Usos Frecuentes de la desviación Estándar
+
+## Teorema de Chebyshev
+### Fórmula
+
+## La Distribución Normal y la Regla Empírica
+
+## Sesgo
+### Coeficiente de Sesgo de Peterson
+Coeficiente de Sesgo: ![Formula](images/coeficiente_peterson.png)
